@@ -26,6 +26,8 @@ p {
 .section-heading{ 
     font-size: 3rem;
     line-height: 1.5rem;
+    padding: 2%;
+
 }
 
 /* Containers  */
