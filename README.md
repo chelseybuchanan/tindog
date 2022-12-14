@@ -1,2 +1,1 @@
-# tindog
-tindog - London App Brewery Bootcamp Project
+TinDog Starting Files
